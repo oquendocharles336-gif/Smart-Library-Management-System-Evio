@@ -15,3 +15,11 @@ The Smart Library Management System (SLMS) is a web-based application designed t
 Student Name: Charles Adrian O. Evio
 Course: BSIT SD
 Section: 2C
+
+## Member Management Module
+
+### Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
